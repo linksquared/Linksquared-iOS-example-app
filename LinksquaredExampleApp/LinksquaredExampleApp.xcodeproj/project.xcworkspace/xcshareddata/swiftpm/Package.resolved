@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "linksquared-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/linksquared/Linksquared-iOS",
+      "state" : {
+        "revision" : "1f78b3c522950500e5a2952243fa3b7a27c1aa96",
+        "version" : "1.7.0"
+      }
+    }
+  ],
+  "version" : 2
+}
